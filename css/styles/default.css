@@ -1,0 +1,118 @@
+/*
+ *  Termé -Responsive Personal Portfolio Template Color Stylesheet
+ *  owwwlab.com @2013
+ *  owwwlab@gmail.com
+ */
+
+
+/* General
+ **************************************************/
+ .btn-outline {
+    background-color: #ff7800;
+}
+.btn-outline:hover {
+    color: #ff7800;
+}
+.colored{
+	color:#ff7800;
+}
+
+a{
+    color:#ff7800;
+}
+/* home 
+ **************************************************/
+
+#caption-carousel .caption h2{
+    color:#ff7800;
+}
+
+.social-icons li a .top{
+    color: #ff7800;
+}
+.arrow-down:before{
+    background: #ff7800;
+}
+
+/* About
+ **************************************************/
+ .bio-circles ul li{
+    color:#ff7800;
+}
+.bio-circles ul li:hover{
+    color:#ff7800;
+}
+
+ .services li i{
+    color: #ff7800;
+}
+
+/* Skills
+ **************************************************/
+.circular-bar  li .details .title span{
+    background: #ff7800;
+}
+.list-center li i{
+    color: #ff7800;
+}
+
+.vertical-bar li .bar{
+    background: #ff7800; 
+    background: -moz-linear-gradient(top,  #ff7800 1%, #9b2020 100%); 
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ff7800), color-stop(100%,#9b2020)); 
+    background: -webkit-linear-gradient(top,  #ff7800 1%,#9b2020 100%);
+    background: -o-linear-gradient(top,  #ff7800 1%,#9b2020 100%);
+    background: -ms-linear-gradient(top,  #ff7800 1%,#9b2020 100%);
+    background: linear-gradient(to bottom,  #ff7800 1%,#9b2020 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff7800', endColorstr='#9b2020',GradientType=0 );
+
+}
+
+/* Portfolio
+ **************************************************/
+ #folio .item .details .title{
+    color:#ff7800;
+}
+.folio-filter li i{
+    color:#ff7800;
+}
+.folio-filter li.active i{
+    background: #ff7800;
+}
+#folio .item  i {
+    color: #ff7800;
+}
+
+#folio-popup button ,#folio .item .overlay,.mfp-iframe-holder .mfp-close{
+    background:#ff7800;
+}
+
+/* Contact
+ **************************************************/
+ #map-marker i{
+    color:#ff7800;
+}
+
+.circle-icons li i{
+    color: #ff7800;
+}
+
+.contact-form input#submit{
+    background:#ff7800;
+}
+.contact-form input#submit:hover{
+	color: #ff7800;
+}
+
+/* Loader 
+**************************************************/
+#preloader,#load-overlay {
+	background-color:#ff7800;
+}
+
+
+/* Navigation
+ **************************************************/
+#nav-container {
+	 background:#ff7800;
+}
